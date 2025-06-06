@@ -1,0 +1,18 @@
+php artisan vendor:publish --tag=laravel-mail
+
+
+🔔 What Are Laravel Notifications?
+Laravel Notifications are a clean, unified way to send alerts/messages to users through various channels like:
+
+Email
+
+Database
+
+SMS (via Twilio, Nexmo)
+
+Broadcast (real-time with websockets)
+
+Slack
+
+Custom channels (e.g., Telegram, WhatsApp)
+

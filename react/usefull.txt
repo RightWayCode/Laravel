@@ -1,0 +1,1 @@
+$user = User::with(['profile:id,user_id,name,email'])->find(1);
